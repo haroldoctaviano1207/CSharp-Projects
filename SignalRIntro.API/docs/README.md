@@ -36,8 +36,8 @@ Pull requests are not welcome. The intention of this is to provide a brief examp
 
 ## Resources
 
-https://www.rafaagahbichelab.dev/articles/signalr-dotnet-postman
-[Milan Jovanović Youtube Channel](https://www.youtube.com/watch?v=9_pRk7PwkpY&ab_channel=MilanJovanovi%C4%87)
+ - https://www.rafaagahbichelab.dev/articles/signalr-dotnet-postman
+ - [Milan Jovanović Youtube Channel](https://www.youtube.com/watch?v=9_pRk7PwkpY&ab_channel=MilanJovanovi%C4%87)
 
 ## License
 
